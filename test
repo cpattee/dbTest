@@ -34,6 +34,29 @@
     "start": "2014-12-09",
     "end": ""
   },
-  "url": "https://chelseapattee.com/",
+  "url": "http://www.chelseapattee.com/",
   "github": "https://github.com/cpattee/angular2-portfolio"
+},
+{
+  "id": "2",
+  "name": "This Test Project",
+  "featured": true,
+  "active": true,
+  "category": "traditional",
+  "company": null,
+  "client": null,
+  "desc": "Acrylic painting",
+  "techs": [
+    {
+      "name": "Acrylic",
+      "logo": "../../../assets/img/svg/skills/angular.svg"
+    }
+  ],
+  "images": [""],
+  "dates": {
+    "start": "2014-12-09",
+    "end": ""
+  },
+  "url": "http://www.chelseapattee.com/",
+  "github": ""
 }]
